@@ -10,5 +10,6 @@ Users can paste any news article or headline, and the system will:
   Cross-check with Gemini AI
 
   Provide a final decision (Fake/Real) with explanation
-
   The app is built using Streamlit for an interactive UI.
+
+  You need to download the dataset (Fake.csv, True.csv) from the Kaggle link:- https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
