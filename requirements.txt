@@ -5,3 +5,15 @@ sentence-transformers
 google-generativeai
 python-dotenv
 torch
+
+You need to put your Gemini API key in app2.py file (where space is given).
+📦 Fake-News-Detection
+ ┣ 📜 app2.py                         # Streamlit App
+ ┣ 📜 fake-news-detection.ipynb       # (Optional) Script to retrain model
+ ┣ 📜 requirements.txt                # Dependencies
+ ┣ 📜 README.md                       # Project Documentation
+ ┗ 📂 data/ (NOT uploaded due to size)
+     ┣ Fake.csv
+     ┗ True.csv
+
+Use streamlit run app2.py in your Command Prompt
